@@ -1,3 +1,7 @@
-#The Guessing Game Assignment 
-make was run Sun 13 Aug 2017 21:35:25 PDT  
-Lines in guessinggame.sh:       38
+# The Guessing Game Assignment 
+  
+make was run: 
+Mon 14 Aug 2017 00:10:38 PDT
+  
+Lines in guessinggame.sh: 
+      38
